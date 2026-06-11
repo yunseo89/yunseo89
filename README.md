@@ -13,14 +13,19 @@
 * AWS Certified Cloud Practitioner - Foundational 
 
 ## 🔎Main tools
+![KAKAOCLOUD](https://img.shields.io/badge/KAKAOCLOUD-%23FFCD00.svg?style=for-the-badge&logo=KAKAOCLOUD-kakao&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![KAKAOCLOUD](https://img.shields.io/badge/KAKAOCLOUD-%23FFCD00.svg?style=for-the-badge&logo=KAKAOCLOUD-kakao&logoColor=white)
 
 ## ✏️I'm currently learning..
 ![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=PYTHON&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
 * AWS Certified Solutions Architect - Associate
 
 ## 📫 How to reach me?
