@@ -3,7 +3,7 @@
 ## 👩‍💻Profile
 * Name: 최윤서(Yunseo Choi)
 * Major: Cloud Engineering at Gachon University
-* Interest: Cloud Native Computing, DevOps(SRE)
+* Interest: Cloud Native Computing, Cloud Engineering, DevOps(SRE)
 
 ## 🤔My Activity 
 * 가천대학교 클라우드공학과(2024.03~)
