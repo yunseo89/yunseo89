@@ -10,7 +10,8 @@
 * 카카오엔터프라이즈 현장실습 - 서비스개발실 클라우드솔루션팀 교육전략파트(2026.03 ~ 2026.06)
 
 ## 📝My certificate
-* AWS Certified Cloud Practitioner - Foundational 
+* AWS Certified Cloud Practitioner - Foundational
+* AWS Certified Solutions Architect - Associate
 
 ## 🔎Main tools
 ![KAKAOCLOUD](https://img.shields.io/badge/KAKAOCLOUD-%23FFCD00.svg?style=for-the-badge&logo=KAKAOCLOUD-kakao&logoColor=white)
@@ -23,8 +24,6 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-* AWS Certified Solutions Architect - Associate
 
 ## 📫 How to reach me?
 * **Email:** yunseo33758@gmail.com
