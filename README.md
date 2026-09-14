@@ -8,6 +8,9 @@
 ## 🤔My Activity 
 * 가천대학교 클라우드공학과(2024.03 ~)
 * 카카오엔터프라이즈 현장실습 - 서비스개발실 클라우드솔루션팀 교육전략파트(2026.03 ~ 2026.06)
+  
+* U3 연합 AI 직무 코어 프로젝트 - 마케팅/홍보(2026.09 ~ ing)
+* UMC in Gachon 11th(2026.09 ~ ing)
 
 ## 📝My certificate
 * AWS Certified Cloud Practitioner - Foundational
